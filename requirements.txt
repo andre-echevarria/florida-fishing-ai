@@ -1,0 +1,53 @@
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine learning libraries
+xgboost>=1.6.0
+lightgbm>=3.3.0
+catboost>=1.0.0
+
+# Web scraping and API requests
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+selenium>=4.5.0
+
+# Geospatial libraries
+geopandas>=0.11.0
+shapely>=1.8.0
+folium>=0.12.0
+geopy>=2.2.0
+
+# Astronomical calculations for Solunar theory
+ephem>=4.1.0
+astral>=2.2
+
+# Time series and datetime handling
+python-dateutil>=2.8.0
+pytz>=2022.1
+
+# Data visualization
+plotly>=5.10.0
+bokeh>=2.4.0
+
+# Web framework for API
+flask>=2.2.0
+flask-cors>=3.0.0
+
+# Database
+
+
+# Logging and configuration
+pyyaml>=6.0
+python-dotenv>=0.20.0
+
+# Testing
+pytest>=7.1.0
+pytest-cov>=3.0.0
+
+# Jupyter for development
+jupyter>=1.0.0
+ipykernel>=6.15.0
